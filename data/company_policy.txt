@@ -1,17 +1,26 @@
-Company Work Policy
+DOCUMENT 1: Credit and Collection Policy
+- Standard payment terms for all clients are Net 30 days from the date of invoice issuance.
+- New clients must undergo a credit evaluation prior to approval, with credit limits set between $10,000 and $50,000 based on creditworthiness.
+- Orders exceeding an account's available credit limit require management approval or advance payment before fulfillment.
+- Early payment discounts of 2% are available for payments settled within 10 days of the invoice date (2/10 Net 30).
 
-Employees can work from home two days per week.
+DOCUMENT 2: Payment Reminder Procedures
+- Pre-due Reminder: An automated soft reminder email is issued 5 days prior to the invoice due date.
+- Grace Period: A 5-day grace period is allowed after the due date before dunning actions begin.
+- Initial Dunning (1-15 Days Past Due): A polite follow-up email is sent attaching the invoice statement and payment options.
+- Second Dunning (16-30 Days Past Due): A formal payment reminder email and telephone follow-up are initiated by the Accounts Receivable team.
 
-The standard working hours are 9:30 AM to 6:30 PM.
+DOCUMENT 3: Invoice Overdue Escalation Rules
+- Level 1 Escalation (31-45 Days Past Due): The client account is flagged for credit hold. Future shipments and ongoing service access are suspended until payment is resolved.
+- Level 2 Escalation (46-60 Days Past Due): A late fee of 1.5% per month (18% annually) is applied to the overdue balance, and senior finance management is notified.
+- Level 3 Escalation (60+ Days Past Due): The account is transferred to external collection agencies or legal counsel for collection proceedings.
 
-Employees receive 24 paid leaves every year.
+DOCUMENT 4: Disputed Invoice Resolution
+- Clients must submit formal notice of invoice disputes within 15 days of invoice receipt detailing the line-item issue.
+- Undisputed line items or partial balances on the invoice must be settled according to standard payment terms while the dispute is under review.
+- The AR team must investigate and respond to dispute inquiries within 5 business days. Approved corrections will result in a revised invoice or credit memo issuance.
 
-New employees have a probation period of six months.
-
-Travel reimbursement claims must be submitted within 15 days.
-
-Employees must inform their manager before taking planned leave.
-
-The company provides health insurance to all full-time employees.
-
-Employees are eligible for performance reviews every six months.
+DOCUMENT 5: Customer Communication Guidelines
+- Professionalism & Empathy: All communications must maintain a polite, firm, and helpful tone to protect business relationships while pursuing balance clearance.
+- Record Keeping: Every call, email response, or promise-to-pay commitment must be logged directly into the financial CRM notes with specific target dates.
+- Payment Plans: If a customer experiences genuine financial hardship, the AR team may authorize a structured payment plan spanning up to 3 installments over 60 days.
