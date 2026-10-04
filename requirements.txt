@@ -4,3 +4,4 @@ numpy
 pandas
 openai
 python-dotenv
+sqlalchemy
