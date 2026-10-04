@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 venv/
+
+data/chroma_db/
+*.sqlite3
