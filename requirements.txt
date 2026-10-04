@@ -1,8 +1,9 @@
+google-genai
+certifi
 sentence-transformers
 faiss-cpu
 numpy
 pandas
-openai
 python-dotenv
 sqlalchemy
 chromadb
